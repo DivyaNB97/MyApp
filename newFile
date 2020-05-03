@@ -1,3 +1,7 @@
 new file test it
 last line
+<<<<<<< HEAD
 this too....111
+=======
+this one too...
+>>>>>>> 0b4269a29fcb6a0321f57169e3beef9bdf512a21
